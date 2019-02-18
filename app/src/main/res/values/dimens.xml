@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="activity_horizontal_margin">16dp</dimen>
-    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_padding">8dp</dimen>
+    <dimen name="text_view_horizontal_padding">8dp</dimen>
+    <dimen name="text_view_margin_top">4dp</dimen>
+    <dimen name="label_horizontal_padding">8dp</dimen>
+    <dimen name="label_vertical_padding">3dp</dimen>
+    <dimen name="label_margin_top">8dp</dimen>
+    <dimen name="image_height">200dp</dimen>
 </resources>
