@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-**Sandwich Club** app shows list of sandwiches and when sandwitch is selected more detailed description is displayed. The app layout is populated from data received as JSON.<br>
+**Sandwich Club** app shows a list of sandwiches. When a sandwich is selected a more detailed description is displayed. The app layout is populated from data received as JSON.
+
 The app is part of the Udacity course: **Android Developer Nanodegree Program**.
 
 
@@ -20,5 +21,6 @@ Building a layout and populating its fields from data received as JSON is a comm
 
 
 ## Screenshots
-![Screenshot](SandwichClub_screenshot_1.png)
-![Screenshot](SandwichClub_screenshot_2.png)
+<p align="center">
+<img src="SandwichClub_screenshot_1.png" width="400"> &nbsp;&nbsp; <img src="SandwichClub_screenshot_2.png" width="400">
+</p>
